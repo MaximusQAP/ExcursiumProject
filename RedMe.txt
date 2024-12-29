@@ -1,0 +1,14 @@
+
+
+Инструменты для тестирования:
+
+PyCharm Selenium
+Использовал для определения Локаторов Element Locator
+
+Библиотеки:
+
+pytest
+selenium
+urllib3
+
+Для воспроизведения тестов был использован Selenium WebDriver к браузеру Chrome. 
